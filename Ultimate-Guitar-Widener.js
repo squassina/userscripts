@@ -15,7 +15,7 @@
     const css = `
         /* Widen main content column */
         .UNiKi {
-            --ug-layout-center-column-width: 0 !important;
+            --ug-layout-center-column-width: 100% !important;
         }
 
         /* Remove sidebar, banners, and promotional elements */
