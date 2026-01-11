@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ultimate Guitar Widener
 // @namespace    https://github.com/squassina/userscripts
-// @version      0.3
+// @version      0.4
 // @description  Minimalist script: widens content and removes intrusive artifacts using pure CSS injection.
 // @author       Squassina
 // @match        *://tabs.ultimate-guitar.com/*
