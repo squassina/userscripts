@@ -5,7 +5,6 @@
 // @description  Widens content and removes intrusive artifacts using pure CSS injection.
 // @author       Squassina
 // @match        *://tabs.ultimate-guitar.com/*
-// @grant        none
 // @run-at       document-start
 // @grant        GM_addStyle
 // ==/UserScript==
